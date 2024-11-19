@@ -1,0 +1,12 @@
+names:
+  - face
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: face-detection-eanjd
+  url: https://universe.roboflow.com/facedetection-l6ulp/face-detection-eanjd/dataset/3
+  version: 3
+  workspace: facedetection-l6ulp
+test: C:/Users/risilvac/Downloads/___BASURA___/__IMG__/test/Face-Detection-3/test/images
+train: C:/Users/risilvac/Downloads/___BASURA___/__IMG__/test/Face-Detection-3/train/images
+val: C:/Users/risilvac/Downloads/___BASURA___/__IMG__/test/Face-Detection-3/valid/images

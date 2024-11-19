@@ -1,0 +1,14 @@
+names:
+- head
+- helmet
+- person
+nc: 3
+roboflow:
+  license: Public Domain
+  project: hard-hat-sample-iacbv
+  url: https://app.roboflow.com/chameleonagile/hard-hat-sample-iacbv/1
+  version: 1
+  workspace: chameleonagile
+test: ../test/images
+train: ../train/images
+val: ../valid/images
